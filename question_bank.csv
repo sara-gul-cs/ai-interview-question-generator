@@ -1,0 +1,22 @@
+skill_tag,category,question
+python,technical,Can you explain the difference between a list and a tuple in Python?
+python,technical,How does Python handle memory management?
+python,technical,What are Python decorators and when would you use one?
+machine learning,technical,Can you explain the bias-variance tradeoff?
+machine learning,technical,How would you handle an imbalanced dataset?
+machine learning,technical,"What is the difference between overfitting and underfitting, and how do you detect each?"
+sql,technical,Write a query to find duplicate rows in a table.
+sql,technical,Explain the difference between INNER JOIN and LEFT JOIN.
+web development,technical,What is the difference between REST and GraphQL APIs?
+web development,technical,How does the browser rendering pipeline work?
+data analysis,technical,How would you handle missing data in a dataset?
+data analysis,technical,Explain the difference between correlation and causation.
+nlp,technical,What is TF-IDF and why is it useful for text data?
+nlp,technical,Explain the difference between stemming and lemmatization.
+cloud computing,technical,"What is the difference between IaaS, PaaS, and SaaS?"
+general,behavioral,Tell me about a time you faced a difficult technical challenge and how you solved it.
+general,behavioral,Describe a situation where you had to learn a new skill quickly.
+general,behavioral,How do you handle receiving critical feedback on your work?
+general,behavioral,Tell me about a time you worked in a team and disagreed with someone.
+general,behavioral,How do you prioritize tasks when you have multiple deadlines?
+general,behavioral,Describe a project you are proud of and why.
