@@ -1,10 +1,10 @@
 # AI-Powered Interview Question Generator
 
-## Objective
+Objective :
 Generate custom technical and behavioral interview questions for intern
 candidates, based on a job description.
 
-## Approach: Two versions provided
+Approach: Two versions provided
 
 ### 1. Template-based version (`interview_question_generator.py`) — FREE, no API key needed
 - Built a tagged question bank (21 questions across 8 skill areas: Python,
@@ -45,7 +45,7 @@ Tested on two different job descriptions:
 
 Different job descriptions correctly produced different, relevant question sets.
 
-## Limitation (honest note)
+## Limitation 
 The template-based version only returns from a fixed, hand-built bank of
 21 questions — it can't generate a genuinely new question it hasn't seen
 before. This is a rule-based automation, not true text generation. The
